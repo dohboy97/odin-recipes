@@ -1,0 +1,1 @@
+This was a basic, HTML website made for my first project within the Odin Project.
